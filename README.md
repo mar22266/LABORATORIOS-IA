@@ -14,4 +14,9 @@ Este repositorio contiene los laboratorios desarrollados para la clase de Inteli
 
 - **Hoja de Trabajo 02** - [Ver Hoja de Trabajo 02](https://github.com/mar22266/LABORATORIOS-IA/tree/main/HojaDeTrabajo02)
 
+  
+## Cortos Disponibles
+
+- **Corto 01** - [Ver Corto 01](https://github.com/mar22266/LABORATORIOS-IA/tree/main/Corto01)
+
 Cada enlace te llevará directamente a la carpeta del laboratorio correspondiente donde podrás encontrar todos los archivos y recursos necesarios para comprender y ejecutar los proyectos.
