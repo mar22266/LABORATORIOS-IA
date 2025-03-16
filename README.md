@@ -9,6 +9,7 @@ Este repositorio contiene los laboratorios desarrollados para la clase de Inteli
 - **Laboratorio 03** - [Ver Laboratorio 03](https://github.com/mar22266/LABORATORIOS-IA/tree/main/Laboratorio03)
 - **Laboratorio 04** - [Ver Laboratorio 04](https://github.com/mar22266/LABORATORIOS-IA/tree/main/Laboratorio04)
 - **Laboratorio 05** - [Ver Laboratorio 05](https://github.com/mar22266/LABORATORIOS-IA/tree/main/Laboratorio05)
+- **Laboratorio 06** - [Ver Laboratorio 06](https://github.com/mar22266/LABORATORIOS-IA/tree/main/Laboratorio06)
 
 ## Hojas de Trabajo Disponibles
 
